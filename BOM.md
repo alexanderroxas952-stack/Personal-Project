@@ -1,6 +1,6 @@
 # Bill of Materials — Mini-CNC 2-Axis Plotter
 
-Target budget: $50–200 CAD. Estimated total: ~$130–180.
+Target budget: $50-200 CAD. Estimated total: around $130-180.
 
 | Item | Est. cost | Alternative if unavailable | Where to buy |
 |---|---|---|---|
@@ -16,7 +16,7 @@ Target budget: $50–200 CAD. Estimated total: ~$130–180.
 | Misc hardware (M3 screws, nuts, zip ties) | $5–10 | — | Canadian Tire / Home Hardware |
 | USB cable (if needed) | $5 | — | Canada Computers |
 
-**Note:** Canada Computers is reliable for generic electronics (Arduino, USB cables, power supply) but its in-store stock of CNC-specific parts (shield, drivers, NEMA17 motors, GT2 belts) is unverified — Amazon.ca is the more consistent source for those.
+**Note:** Canada Computers is reliable for generic electronics (Arduino, USB cables, power supply), but its in-store stock of CNC-specific parts (shield, drivers, NEMA17 motors, GT2 belts) is unverified. Amazon.ca is the more consistent source for those.
 
 ## Checklist
 
