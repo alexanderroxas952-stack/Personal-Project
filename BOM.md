@@ -20,14 +20,16 @@ Target budget: $50-200 CAD. Estimated total: around $130-180.
 
 ## Checklist
 
-- [ ] Arduino Uno (or confirm already owned)
-- [ ] CNC Shield V3 + 2× A4988 drivers
-- [ ] 2× NEMA17 stepper motors
-- [ ] GT2 belt + pulley kit
-- [ ] Smooth rods or dowel alternative
-- [ ] SG90 micro servo
-- [ ] Frame material
-- [ ] 12V 2A power supply (or confirm reusable charger)
-- [ ] Jumper wires + breadboard (or confirm already owned)
-- [ ] M3 screws/nuts/zip ties
-- [ ] USB cable if needed
+Ordered from Amazon.ca on 2026-10-29. See [`docs/log.md`](./docs/log.md) for details.
+
+- [x] Arduino Uno REV3
+- [x] CNC Shield V3 (2 pack, 1 spare) + A4988 drivers (4 pack, 2 spares)
+- [x] 2× NEMA17 stepper motors (3401S)
+- [x] GT2 belt + GT2 pulleys (5 pack)
+- [x] 4× smooth steel rods, 8mm × 300mm
+- [x] SG90 micro servo
+- [x] Frame material: 1/4" MDF, 11×14, 10 pack (two sheets glued per panel)
+- [x] 12V 2A power supply
+- [x] Jumper wires + breadboard
+- [x] M3 screw/nut kit + zip ties
+- [x] USB A to USB B cable
