@@ -1,6 +1,8 @@
 # Bill of Materials — Mini-CNC 2-Axis Plotter
 
-Target budget: $50-200 CAD. Estimated total: around $130-180.
+Target budget: $50-200 CAD. Estimated total was around $130-180.
+
+**Actual spent (orders up to 2026-10-29): $311.40 CAD.** Over the $200 budget ceiling by $111.40.
 
 | Item | Est. cost | Alternative if unavailable | Where to buy |
 |---|---|---|---|
@@ -26,7 +28,8 @@ Ordered from Amazon.ca on 2026-10-29. See [`docs/log.md`](./docs/log.md) for det
 - [x] CNC Shield V3 (2 pack, 1 spare) + A4988 drivers (4 pack, 2 spares)
 - [x] 2× NEMA17 stepper motors (3401S)
 - [x] GT2 belt + GT2 pulleys (received 20T 8mm bore, 24 pack: wrong bore for NEMA17)
-- [ ] 2x GT2 20T pulleys, 5mm bore (to order)
+- [ ] 2x GT2 20T pulleys, 5mm bore (to order, ~$10)
+- [ ] LM8UU linear bearings, 10 pack (to order, ~$10-15). Missing from the original BOM: needed for the carriages to slide on the 8mm rods.
 - [x] 4× smooth steel rods, 8mm × 300mm
 - [x] SG90 micro servo
 - [x] Frame material: 1/4" MDF, 11×14, 10 pack (two sheets glued per panel)

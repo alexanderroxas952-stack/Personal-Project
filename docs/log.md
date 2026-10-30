@@ -39,5 +39,5 @@ Decisions
 
 Open items
 - Still waiting on: 4x 8mm steel rods (expected Nov 5-9) and 12V 2A power supply (expected by Nov 2).
-- Order 5mm-bore 20T GT2 pulleys.
-- Record the actual total spent once all receipts are in.
+- Order 5mm-bore 20T GT2 pulleys and an LM8UU 10 pack (bearings were missing from the BOM). Decided to buy rather than 3D print both: printed GT2 teeth are too coarse, and printed bushings need tolerance tuning.
+- Budget: orders so far total $311.40 CAD, $111.40 over the $200 ceiling. The two parts above add about $20-25.
