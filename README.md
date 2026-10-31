@@ -13,7 +13,7 @@ In progress. See milestones below.
 | Week | Dates | Milestone | Status |
 |---|---|---|---|
 | 1 | Oct 25-31 | Parts list finalized, parts ordered, repo scaffolded | ✅ |
-| 2 | Nov 1-7 | Frame cut and assembled, GRBL flashed, shield and drivers wired (rods arrive late, rails moved to Week 3) | ⬜ |
+| 2 | Nov 1-7 | Frame cut and assembled, GRBL flashed (done early, Oct 30), shield and drivers wired, A4988 current limit set (rods arrive late, rails moved to Week 3) | 🟨 |
 | 3 | Nov 8-14 | Rods and belts mounted, axes jog-tested | ⬜ |
 | 4 | Nov 15-21 | Pen-lift servo mounted, steps/mm calibrated | ⬜ |
 | 5 | Nov 22-28 | AutoCAD to DXF to G-code pipeline working | ⬜ |

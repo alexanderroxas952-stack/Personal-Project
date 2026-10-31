@@ -41,3 +41,21 @@ Open items
 - Still waiting on: 4x 8mm steel rods (expected Nov 5-9) and 12V 2A power supply (expected by Nov 2).
 - Order 5mm-bore 20T GT2 pulleys and an LM8UU 10 pack (bearings were missing from the BOM). Decided to buy rather than 3D print both: printed GT2 teeth are too coarse, and printed bushings need tolerance tuning.
 - Budget: orders so far total $311.40 CAD, $111.40 over the $200 ceiling. The two parts above add about $20-25.
+
+## 2026-10-30 (Week 1: final order, GRBL flash)
+
+Done
+- Ordered 2x GT2 20T 5mm-bore pulleys and an LM8UU 10 pack from Amazon.ca. Arriving Tue Nov 3. Every part is now ordered.
+- Flashed GRBL 1.1h to the Uno REV3 over USB (no PSU, no motors connected). Startup banner and `$$` confirmed at 115200 baud. Week 2 task done early.
+- Saved GRBL settings to `firmware/grbl-defaults.txt` (partial: $30-$132 only).
+- BOM checklist now reads `[x]` = ordered, with delivery status in parentheses.
+
+Decisions
+- No GRBL `$` settings get changed until steps/mm calibration in Week 4.
+- 12V, motors and A4988 Vref stay disconnected/unset until the PSU arrives.
+
+Open items
+- Re-run `$$` and save the full output. $0-$27 are missing, including $3 (direction invert) and $22 (homing).
+- Record the Oct 30 order cost in BOM.md (estimated $20-25, projected total about $331-336). Check whether $311.40 includes 13% HST.
+- Rough frame layout in SolidWorks was due Oct 30. It gates the frame cut on Nov 3.
+- Still waiting on: 12V 2A PSU (by Nov 2), 5mm pulleys + LM8UU (Nov 3), 4x 8mm rods (Nov 5-9).

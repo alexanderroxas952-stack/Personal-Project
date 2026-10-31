@@ -4,6 +4,8 @@ Target budget: $50-200 CAD. Estimated total was around $130-180.
 
 **Actual spent (orders up to 2026-10-29): $311.40 CAD.** Over the $200 budget ceiling by $111.40.
 
+**2026-10-30 order (5mm pulleys + LM8UU): cost not yet recorded, estimated $20-25.** Projected total about $331-336 CAD. Still to confirm whether $311.40 includes 13% HST.
+
 | Item | Est. cost | Alternative if unavailable | Where to buy |
 |---|---|---|---|
 | Arduino Uno (or compatible) | $25–35 (or $0 if reused) | Arduino Nano clone (~$12) | Canada Computers (Weber St N, Waterloo) / Amazon.ca |
@@ -22,18 +24,18 @@ Target budget: $50-200 CAD. Estimated total was around $130-180.
 
 ## Checklist
 
-Ordered from Amazon.ca on 2026-10-29. See [`docs/log.md`](./docs/log.md) for details.
+All parts are ordered (Amazon.ca, 2026-10-29 and 2026-10-30). `[x]` = ordered; delivery status in parentheses. See [`docs/log.md`](./docs/log.md) for details.
 
-- [x] Arduino Uno REV3
-- [x] CNC Shield V3 (2 pack, 1 spare) + A4988 drivers (4 pack, 2 spares)
-- [x] 2× NEMA17 stepper motors (3401S)
-- [x] GT2 belt + GT2 pulleys (received 20T 8mm bore, 24 pack: wrong bore for NEMA17)
-- [ ] 2x GT2 20T pulleys, 5mm bore (to order, ~$10)
-- [ ] LM8UU linear bearings, 10 pack (to order, ~$10-15). Missing from the original BOM: needed for the carriages to slide on the 8mm rods.
-- [x] 4× smooth steel rods, 8mm × 300mm
-- [x] SG90 micro servo
-- [x] Frame material: 1/4" MDF, 11×14, 10 pack (two sheets glued per panel)
-- [x] 12V 2A power supply
-- [x] Jumper wires + breadboard
-- [x] M3 screw/nut kit + zip ties
-- [x] USB A to USB B cable
+- [x] Arduino Uno REV3 (delivered Oct 29)
+- [x] CNC Shield V3 (2 pack, 1 spare) + A4988 drivers (4 pack, 2 spares) (delivered Oct 29)
+- [x] 2× NEMA17 stepper motors (3401S) (delivered Oct 29)
+- [x] GT2 belt + GT2 pulleys (delivered Oct 29; pulleys are 20T 8mm bore, wrong bore for NEMA17, not usable)
+- [x] 2x GT2 20T pulleys, 5mm bore (ordered Oct 30, arriving Tue Nov 3)
+- [x] LM8UU linear bearings, 10 pack (ordered Oct 30, arriving Tue Nov 3). Missing from the original BOM: needed for the carriages to slide on the 8mm rods.
+- [x] 4× smooth steel rods, 8mm × 300mm (expected Nov 5-9)
+- [x] SG90 micro servo (delivered Oct 29)
+- [x] Frame material: 1/4" MDF, 11×14, 10 pack (two sheets glued per panel) (delivered Oct 29)
+- [x] 12V 2A power supply (expected by Nov 2)
+- [x] Jumper wires + breadboard (delivered Oct 29)
+- [x] M3 screw/nut kit + zip ties (delivered Oct 29)
+- [x] USB A to USB B cable (delivered Oct 29)
