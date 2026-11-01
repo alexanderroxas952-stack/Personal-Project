@@ -59,3 +59,16 @@ Open items
 - Record the Oct 30 order cost in BOM.md (estimated $20-25, projected total about $331-336). Check whether $311.40 includes 13% HST.
 - Rough frame layout in SolidWorks was due Oct 30. It gates the frame cut on Nov 3.
 - Still waiting on: 12V 2A PSU (by Nov 2), 5mm pulleys + LM8UU (Nov 3), 4x 8mm rods (Nov 5-9).
+
+## 2026-10-31 (Week 1: full GRBL settings)
+
+Done
+- Re-ran `$$` and updated `firmware/grbl-defaults.txt` with the full output, $0-$132 (34 settings). Closes the Oct 30 open item.
+
+Issues
+- Cause of the earlier partial capture: the Arduino IDE Serial Monitor deselects lines that scroll off-screen during a drag-select, so the copy was truncated. IDE behaviour, not a GRBL problem.
+
+Open items
+- Record the Oct 30 order cost in BOM.md. Check whether $311.40 includes 13% HST.
+- Rough frame layout in SolidWorks (was due Oct 30). Gates the frame cut on Nov 3.
+- Still waiting on: 12V 2A PSU (by Nov 2), 5mm pulleys + LM8UU (Nov 3), 4x 8mm rods (Nov 5-9).

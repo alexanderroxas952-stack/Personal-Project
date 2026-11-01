@@ -1,5 +1,5 @@
 GRBL 1.1h stock defaults, Uno REV3, flashed 2026-10-30
-NOTE: partial capture ($30-$132 only). $0-$27 missing, re-run $$ and paste full output.
+Full $$ capture ($0-$132), re-run 2026-10-31.
 
 $0=10
 $1=25
